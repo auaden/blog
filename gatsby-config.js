@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `auaden.com`,
+    title: `auaden`,
     author: `Aden Au`,
     description: `Personal blog of Aden Au`,
     siteUrl: `https://blog.auaden.com/`,
@@ -63,7 +63,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/a-icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
@@ -73,8 +73,5 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
   ],
 }
