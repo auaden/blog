@@ -20,7 +20,7 @@ When someone criticises your code, don't take it personally. I often see develop
 
 ## 2. Read up & learn
 
-People always think they can stop learning after university or they can rest on their laurels after learning the basics of React. These people are the ones who get left behind when a new tech emerges. My advice is to read and learn on your free time. Learning can take many different forms. These are my tips:
+People always think they can stop learning after university or they can rest on their laurels after learning the basics of React. These people are the ones who get left behind when a new tech emerges. My advice is to read and learn in your free time. Learning can take many different forms. These are my tips:
 
 - Follow tech stories on social media like twitter and reddit to keep up with the current trends.
 
@@ -30,7 +30,7 @@ People always think they can stop learning after university or they can rest on 
 
 - Learn patterns like SOLID and GRASP to level up your code.
 
-- Apply these to your work. Find use cases where you can practise your craft. That's when you get really good. You have to do it.
+- Apply these to your work. Find use cases where you can practise your craft. Alternatively, you can work on a side project to help you learn. That's when you get really good. You have to do it.
 
 - Validate your ideas with someone. Talk to someone about your ideas. He/she might have better ideas and you can bounce off ideas with each other.
 
@@ -44,6 +44,6 @@ Your reinvented wheel probably sucks. There is a high chance a library is alread
 
 Please don’t take requirements as-is. Requirements handed down from business are usually written by people who knows nothing about tech. If you don't question the requirements, you will end up writing code that will be thrown away quick. Keep asking why.
 
-I think that's about all the wisdom I can write down at the moment haha. I'm looking forward to my next job at Seedly, but also also looking backward at the time I spent in SingTel and reflecting on what I've done.
+I think that's about all the wisdom I can write down at the moment haha. I'm looking forward to my next job at Seedly, but also looking backward at the time I spent in SingTel and reflecting on what I've done.
 
 Thank you for reading the post!
