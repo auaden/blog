@@ -52,7 +52,10 @@ const Bio = () => {
       />
       <p>
         Written by <strong>{author}</strong> who loves creating products with
-        JavaScript. Lives and works in Singapore 🇸🇬. Currently working @ Singtel
+        JavaScript. Lives and works in Singapore 🇸🇬. Currently working @{" "}
+        <a href="https://www.seedly.sg" target="_blank">
+          Seedly
+        </a>
       </p>
     </div>
   )
